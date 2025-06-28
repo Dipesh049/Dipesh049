@@ -30,17 +30,17 @@ I'm an Associate Software Engineer at **Brainvire Infotech Inc.**, passionate ab
 
 ## 🛠️ Notable Projects
 
-### 📵 SpamSafe – Spam Call Blocker ([AppStore Link](#))
+### 📵 SpamSafe – Spam Call Blocker ([AppStore Link](https://apps.apple.com/ae/app/spam-call-blocker-spamsafe/id6483862036?uo=2))
 - Blocked 95% of spoofed spam numbers
 - Increased user retention by 15%
 - Used `CallKit`, `CoreData`, and custom spam detection logic
 
-### 🚚 Airmee – Last-Mile Delivery App ([AppStore Link](#))
+### 🚚 Airmee – Last-Mile Delivery App ([AppStore Link](https://apps.apple.com/in/developer/airmee/id1480714099))
 - Worked on Courier, Customer, and Warehouse apps
 - Features: fuel checks, parcel damage reporting, interactive onboarding
 - Improved delivery operation time by 20%
 
-### 📸 PhotoUp – iOS Photo Editing App ([AppStore Link](#))
+### 📸 PhotoUp – iOS Photo Editing App ([AppStore Link](https://apps.apple.com/us/app/photo-up-photo-editor-maker/id6473738848))
 - Built from scratch with `UIKit` & `MVVMC`
 - Added undo/redo with `UndoManager`
 - Increased engagement with a clean, single-screen UI
